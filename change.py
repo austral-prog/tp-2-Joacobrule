@@ -1,6 +1,6 @@
 def change():
-  expense = 23.75
-  money = 100
+  Expense = 23.75
+  Money = 100
   P = Money-Expense
   P = int(P)
   B =Money-Expense
